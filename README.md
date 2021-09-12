@@ -26,3 +26,6 @@ I have used the following two datasets for Boston and Seattle:
 1. Busiest period for Boston is spring (Mar to Jul) and for Seattle is summer (Jul to Sep)
 2. Prices peak in summer for both cities, and do show some seasonality though it would be better we had two years of data to analyze
 3. Property type turned out to be top most driver of occupancy rate, followed by location accuracy and requirement of profile picture by the listing
+
+
+Check out a summary of this analysis on this link - https://medium.com/@ajay.pratham/what-drives-your-choice-in-making-a-reservation-on-airbnb-9832f8d8338
